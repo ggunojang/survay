@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/survay/static/js/main.73ec2b0d.chunk.js",
-    "main.js.map": "/survay/static/js/main.73ec2b0d.chunk.js.map",
+    "main.js": "/survay/static/js/main.6b248135.chunk.js",
+    "main.js.map": "/survay/static/js/main.6b248135.chunk.js.map",
     "runtime-main.js": "/survay/static/js/runtime-main.22c04b05.js",
     "runtime-main.js.map": "/survay/static/js/runtime-main.22c04b05.js.map",
     "static/js/2.f699f984.chunk.js": "/survay/static/js/2.f699f984.chunk.js",
     "static/js/2.f699f984.chunk.js.map": "/survay/static/js/2.f699f984.chunk.js.map",
     "index.html": "/survay/index.html",
-    "precache-manifest.4736c7524eaf2f157222e8ad27a42ba9.js": "/survay/precache-manifest.4736c7524eaf2f157222e8ad27a42ba9.js",
+    "precache-manifest.5a0d93ec9b990c9e568cfc37689d7244.js": "/survay/precache-manifest.5a0d93ec9b990c9e568cfc37689d7244.js",
     "service-worker.js": "/survay/service-worker.js",
     "static/js/2.f699f984.chunk.js.LICENSE.txt": "/survay/static/js/2.f699f984.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.22c04b05.js",
     "static/js/2.f699f984.chunk.js",
-    "static/js/main.73ec2b0d.chunk.js"
+    "static/js/main.6b248135.chunk.js"
   ]
 }
